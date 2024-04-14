@@ -1,7 +1,0 @@
-E:\Programs\VisualStudio\repos\ASCIIpicture\Test\bin\Debug\Test.exe.config
-E:\Programs\VisualStudio\repos\ASCIIpicture\Test\bin\Debug\Test.exe
-E:\Programs\VisualStudio\repos\ASCIIpicture\Test\bin\Debug\Test.pdb
-E:\Programs\VisualStudio\repos\ASCIIpicture\Test\obj\Debug\Test.csproj.AssemblyReference.cache
-E:\Programs\VisualStudio\repos\ASCIIpicture\Test\obj\Debug\Test.csproj.CoreCompileInputs.cache
-E:\Programs\VisualStudio\repos\ASCIIpicture\Test\obj\Debug\Test.exe
-E:\Programs\VisualStudio\repos\ASCIIpicture\Test\obj\Debug\Test.pdb
